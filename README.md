@@ -1,6 +1,7 @@
-# React Native Base Template
+# React Native Weather App UI
 
-This is a base template for React Native project, with the aim of facilitating the creation of new projects.
+This is a React Native App to test my first impressions with Tailwind CSS + React Native components.
+The data are fetch from [Weather API](https://www.weatherapi.com/).
 
 Project created with Expo CLI. [See official docs](https://docs.expo.dev/get-started/installation/) to set up the environment.
 
@@ -18,10 +19,17 @@ The following tools were used to build the project:
 - [Hero Icons](https://heroicons.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [React Native Circular Progress](https://github.com/bartgryszko/react-native-circular-progress)
+- [Date Fns](https://date-fns.org/)
+- [Lodash](https://lodash.com/)
 - [React Navigation](https://reactnavigation.org/docs/getting-started/): Routes and navigation
 - [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/): React Native Reanimated is a powerful animation library.
 - [Native Wind](https://www.nativewind.dev/): NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native. NativeWind components can be shared between platforms and will output their styles as CSS StyleSheet on web and StyleSheet.create for native.
 
+## Environment variables
+
+To run this project, you will need to add the following environment variables to your .env
+
+`EXPO_PUBLIC_API_KEY`
 
 ## 🚀 Open and run the project
 
@@ -42,3 +50,7 @@ Run on Android
 ```
 yarn android
 ```
+
+### Demonstration
+
+<img src="/assets/readme/demo.gif" />

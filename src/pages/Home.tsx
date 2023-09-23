@@ -7,8 +7,8 @@ export const Home = () => {
       <Text className="font-medium text-center text-neutral-700">
         Hello! This is a Base Project with, ESLint, Prettier, Typescript,
         Reanimated, Tailwind CSS, Navigation, Absolute path, Import sort, Hero
-        Icons, Async Storage, Axios, React Native SVG and React Native Circular
-        Progress.
+        Icons, Async Storage, Axios, React Native SVG, Date Fns, Lodash and
+        React Native Circular Progress.
       </Text>
       <Text className="font-bold text-center text-neutral-700 text-2xl">
         Enjoy it!
