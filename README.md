@@ -1,7 +1,6 @@
-# React Native Weather App UI
+# React Native Nomad Clone App
 
-This is a React Native App to test my first impressions with Tailwind CSS + React Native components.
-The data are fetch from [Weather API](https://www.weatherapi.com/).
+This is a React Native application, created as a study method, replicating Splash and the Nomad application home screen with Tailwind CSS + React Native components.
 
 Project created with Expo CLI. [See official docs](https://docs.expo.dev/get-started/installation/) to set up the environment.
 
@@ -14,22 +13,10 @@ The following tools were used to build the project:
 - [TypeScript](https://www.typescriptlang.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [React Native SVG](https://github.com/software-mansion/react-native-svg)
-- [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/usage/)
 - [Hero Icons](https://heroicons.com/)
-- [Axios](https://axios-http.com/ptbr/docs/intro)
-- [React Native Circular Progress](https://github.com/bartgryszko/react-native-circular-progress)
-- [Date Fns](https://date-fns.org/)
-- [Lodash](https://lodash.com/)
 - [React Navigation](https://reactnavigation.org/docs/getting-started/): Routes and navigation
 - [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/): React Native Reanimated is a powerful animation library.
 - [Native Wind](https://www.nativewind.dev/): NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native. NativeWind components can be shared between platforms and will output their styles as CSS StyleSheet on web and StyleSheet.create for native.
-
-## Environment variables
-
-To run this project, you will need to add the following environment variables to your .env
-
-`EXPO_PUBLIC_API_KEY`
 
 ## 🚀 Open and run the project
 
@@ -53,4 +40,11 @@ yarn android
 
 ### Demonstration
 
-<img src="/assets/readme/demo.gif" />
+## IPhone 15 Pro Max
+<img src="/assets/readme/demo.gif" width="50%" height="50%"/>
+
+## IPhone SE 3rd Gen
+<img src="/assets/readme/iphoneSE.gif" width="50%" height="50%"/>
+
+## Android
+<img src="/assets/readme/android.gif" width="50%" height="50%"/>
